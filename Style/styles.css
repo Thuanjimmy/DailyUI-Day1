@@ -1,0 +1,22 @@
+body{
+    background-color: #222831;
+    color: white;
+    text-align: center;
+}
+
+.form-signin{
+    background-color: #30475e;
+    width: 100%;
+    max-width: 350px;
+    padding: 15px;
+    margin: auto;
+}
+
+
+.link{
+    text-align: left;
+}
+
+.main-heading{
+    margin: 50px auto;
+}
